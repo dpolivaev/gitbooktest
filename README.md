@@ -2,7 +2,7 @@
 
 ## Getting Super Powers
 
-Becoming a super hero is a fairly straight forward process:
+Becoming a superhero is a fairly straightforward process:
 
 ```
 $ give me super-powers
@@ -22,4 +22,14 @@ echo 'You got to trust me on this, I saved the world'
 {% endcode %}
 
 
+
+{% tabs %}
+{% tab title="First Tab" %}
+toto
+{% endtab %}
+
+{% tab title="Second Tab" %}
+tutu
+{% endtab %}
+{% endtabs %}
 
