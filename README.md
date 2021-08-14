@@ -30,6 +30,11 @@ toto
 
 {% tab title="Second Tab" %}
 tutu
+
+| title | title 2 |  |
+| :--- | :--- | :--- |
+| content | content 2 |  |
+|  |  |  |
 {% endtab %}
 {% endtabs %}
 
